@@ -2,7 +2,7 @@
     <div class="home-container">
         <div class="left-board">
             <div class="logo-container">
-                <img :src="logo" alt="" class="logo-img">
+                <img :src="logo" alt="123" class="logo-img">
                 <div class="name">Hw-Generator</div>
             </div>
             <div class="comp-wrapper-container">
